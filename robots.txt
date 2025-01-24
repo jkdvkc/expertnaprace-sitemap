@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jkdvkc.github.io/expertnaprace-sitemap/sitemap.xml
